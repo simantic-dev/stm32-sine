@@ -1,0 +1,522 @@
+[0.200089s] (usart3 → term) set udcsw 0
+[0.201237s] (usart3 → term) Set OK
+[0.199991s] (usart3 ← term) set udcsw 0
+[0.250094s] (usart3 → term) set udcmin 0
+[0.249991s] (usart3 ← term) set udcmin 0
+[0.251337s] (usart3 → term) Set OK
+[0.300090s] (usart3 → term) set boost 10000
+[0.299991s] (usart3 ← term) set boost 10000
+[0.301620s] (usart3 → term) Set OK
+[0.350095s] (usart3 → term) set fslipmin 5
+[0.349991s] (usart3 ← term) set fslipmin 5
+[0.351530s] (usart3 → term) Set OK
+[0.400091s] (usart3 → term) can tx fstat 384 0 16 1
+[0.399991s] (usart3 ← term) can tx fstat 384 0 16 1
+[0.402387s] (usart3 → term) CAN map successful, 1 message active
+[bus] CAN RX id=0x180 data=0000
+[0.450096s] (usart3 → term) can tx amp 385 0 16 1
+[0.449991s] (usart3 ← term) can tx amp 385 0 16 1
+[0.452200s] (usart3 → term) CAN map successful, 2 messages active
+[0.499991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[0.500092s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[0.505161s] (usart3 → term) 0.00
+[0.505735s] (usart3 → term) 512.00
+[0.506500s] (usart3 → term) 0.00
+[0.507074s] (usart3 → term) 0.00
+[0.507648s] (usart3 → term) 0.00
+[0.508222s] (usart3 → term) 0.00
+[0.508796s] (usart3 → term) 0.78
+[bus] CAN RX id=0x180 data=0000
+[bus] CAN RX id=0x181 data=0000
+[0.599991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[0.600094s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[0.605163s] (usart3 → term) 0.00
+[0.605736s] (usart3 → term) 256.00
+[0.606502s] (usart3 → term) 0.00
+[0.607075s] (usart3 → term) 0.00
+[0.607649s] (usart3 → term) 0.00
+[0.608223s] (usart3 → term) 0.00
+[0.608797s] (usart3 → term) 0.78
+[bus] CAN RX id=0x180 data=0000
+[bus] CAN RX id=0x181 data=0000
+[0.699991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[0.700095s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[0.705164s] (usart3 → term) 0.00
+[0.705738s] (usart3 → term) 256.00
+[0.706503s] (usart3 → term) 0.00
+[0.707077s] (usart3 → term) 0.00
+[0.707650s] (usart3 → term) 0.00
+[0.708224s] (usart3 → term) 0.00
+[0.708798s] (usart3 → term) 0.78
+[bus] CAN RX id=0x180 data=0000
+[bus] CAN RX id=0x181 data=0000
+[0.799991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[0.800096s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[0.805165s] (usart3 → term) 0.00
+[0.805739s] (usart3 → term) 256.00
+[0.806504s] (usart3 → term) 0.00
+[0.807078s] (usart3 → term) 0.00
+[0.807652s] (usart3 → term) 0.00
+[0.808226s] (usart3 → term) 0.00
+[0.808799s] (usart3 → term) 0.78
+[bus] CAN RX id=0x180 data=0000
+[bus] CAN RX id=0x181 data=0000
+[0.899991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[0.900089s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[0.905158s] (usart3 → term) 1.00
+[0.905731s] (usart3 → term) 0.00
+[0.906305s] (usart3 → term) 0.00
+[0.906879s] (usart3 → term) 0.00
+[0.907453s] (usart3 → term) 0.00
+[0.908027s] (usart3 → term) 0.00
+[0.908601s] (usart3 → term) 0.78
+[bus] CAN RX id=0x180 data=0000
+[bus] CAN RX id=0x181 data=0000
+[0.999991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[1.000090s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[1.005159s] (usart3 → term) 1.00
+[1.005733s] (usart3 → term) 0.00
+[1.006306s] (usart3 → term) 0.00
+[1.006880s] (usart3 → term) 0.00
+[1.007454s] (usart3 → term) 0.00
+[1.008028s] (usart3 → term) 0.00
+[1.008602s] (usart3 → term) 0.78
+[bus] CAN RX id=0x180 data=0000
+[bus] CAN RX id=0x181 data=0000
+[1.099991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[1.100091s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[1.105160s] (usart3 → term) 1.00
+[1.105734s] (usart3 → term) 0.00
+[1.106308s] (usart3 → term) 0.00
+[1.106881s] (usart3 → term) 0.00
+[1.107455s] (usart3 → term) 0.00
+[1.108029s] (usart3 → term) 0.00
+[1.108603s] (usart3 → term) 0.78
+[bus] CAN RX id=0x180 data=0000
+[bus] CAN RX id=0x181 data=0000
+[1.199991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[1.200092s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[1.205161s] (usart3 → term) 1.00
+[1.205735s] (usart3 → term) 0.00
+[1.206309s] (usart3 → term) 0.00
+[1.206883s] (usart3 → term) 0.00
+[1.207456s] (usart3 → term) 0.00
+[1.208030s] (usart3 → term) 0.00
+[1.208604s] (usart3 → term) 0.78
+[bus] CAN RX id=0x180 data=0000
+[bus] CAN RX id=0x181 data=0000
+[1.299991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[1.300093s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[1.305162s] (usart3 → term) 1.00
+[1.305763s] (usart3 → term) 0.00
+[1.306336s] (usart3 → term) 0.31
+[1.306910s] (usart3 → term) 62.00
+[1.307580s] (usart3 → term) 0.62
+[1.308154s] (usart3 → term) 0.31
+[1.308727s] (usart3 → term) 0.78
+[bus] CAN RX id=0x180 data=0000
+[bus] CAN RX id=0x181 data=7700
+[1.399991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[1.400095s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[1.405164s] (usart3 → term) 1.00
+[1.405737s] (usart3 → term) 0.00
+[1.406311s] (usart3 → term) 2.65
+[1.406885s] (usart3 → term) 502.00
+[1.407650s] (usart3 → term) 4.93
+[1.408224s] (usart3 → term) 2.65
+[1.408798s] (usart3 → term) 11.28
+[bus] CAN RX id=0x180 data=0200
+[bus] CAN RX id=0x181 data=1702
+[1.499991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[1.500096s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[1.505165s] (usart3 → term) 1.00
+[1.505739s] (usart3 → term) 0.00
+[1.506312s] (usart3 → term) 3.87
+[1.506886s] (usart3 → term) 741.00
+[1.507651s] (usart3 → term) 7.21
+[1.508225s] (usart3 → term) 3.87
+[1.508799s] (usart3 → term) 11.28
+[bus] CAN RX id=0x180 data=0300
+[bus] CAN RX id=0x181 data=f502
+[1.599991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[1.600088s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[1.605157s] (usart3 → term) 1.00
+[1.605740s] (usart3 → term) 0.00
+[1.606314s] (usart3 → term) 4.53
+[1.606888s] (usart3 → term) 867.00
+[1.607653s] (usart3 → term) 8.40
+[1.608227s] (usart3 → term) 4.53
+[1.608801s] (usart3 → term) 11.50
+[bus] CAN RX id=0x180 data=0400
+[bus] CAN RX id=0x181 data=6c03
+[1.699991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[1.700089s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[1.705158s] (usart3 → term) 1.00
+[1.705741s] (usart3 → term) 0.00
+[1.706315s] (usart3 → term) 4.84
+[1.706889s] (usart3 → term) 936.00
+[1.707654s] (usart3 → term) 9.06
+[1.708228s] (usart3 → term) 4.84
+[1.708802s] (usart3 → term) 11.50
+[bus] CAN RX id=0x180 data=0400
+[bus] CAN RX id=0x181 data=ac03
+[1.799991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[1.800091s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[1.805160s] (usart3 → term) 1.00
+[1.805742s] (usart3 → term) 0.00
+[1.806316s] (usart3 → term) 5.00
+[1.806890s] (usart3 → term) 970.00
+[1.807655s] (usart3 → term) 9.37
+[1.808229s] (usart3 → term) 5.00
+[1.808803s] (usart3 → term) 11.50
+[bus] CAN RX id=0x180 data=0500
+[bus] CAN RX id=0x181 data=cd03
+[1.899991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[1.900092s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[1.905161s] (usart3 → term) 1.00
+[1.905735s] (usart3 → term) 0.00
+[1.906308s] (usart3 → term) 5.00
+[1.906882s] (usart3 → term) 986.00
+[1.907647s] (usart3 → term) 9.53
+[1.908221s] (usart3 → term) 5.00
+[1.908795s] (usart3 → term) 11.50
+[bus] CAN RX id=0x180 data=0500
+[bus] CAN RX id=0x181 data=da03
+[1.999991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[2.000093s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[2.005162s] (usart3 → term) 1.00
+[2.005736s] (usart3 → term) 0.00
+[2.006310s] (usart3 → term) 5.00
+[2.006884s] (usart3 → term) 986.00
+[2.007649s] (usart3 → term) 9.53
+[2.008222s] (usart3 → term) 5.00
+[2.008796s] (usart3 → term) 11.50
+[bus] CAN RX id=0x180 data=0500
+[bus] CAN RX id=0x181 data=da03
+[2.099991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[2.100094s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[2.105163s] (usart3 → term) 1.00
+[2.105737s] (usart3 → term) 0.00
+[2.106311s] (usart3 → term) 5.00
+[2.106885s] (usart3 → term) 986.00
+[2.107650s] (usart3 → term) 9.53
+[2.108224s] (usart3 → term) 5.00
+[2.108798s] (usart3 → term) 11.50
+[bus] CAN RX id=0x180 data=0500
+[bus] CAN RX id=0x181 data=da03
+[2.199991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[2.200095s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[2.205164s] (usart3 → term) 1.00
+[2.205747s] (usart3 → term) 0.00
+[2.206321s] (usart3 → term) 5.00
+[2.206895s] (usart3 → term) 986.00
+[2.207660s] (usart3 → term) 9.53
+[2.208234s] (usart3 → term) 5.00
+[2.208808s] (usart3 → term) 11.50
+[bus] CAN RX id=0x180 data=0500
+[bus] CAN RX id=0x181 data=da03
+[2.299991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[2.300088s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[2.305157s] (usart3 → term) 1.00
+[2.305740s] (usart3 → term) 0.00
+[2.306314s] (usart3 → term) 5.00
+[2.306887s] (usart3 → term) 986.00
+[2.307652s] (usart3 → term) 9.53
+[2.308226s] (usart3 → term) 5.00
+[2.308800s] (usart3 → term) 11.50
+[bus] CAN RX id=0x180 data=0500
+[bus] CAN RX id=0x181 data=da03
+[2.399991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[2.400089s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[2.405167s] (usart3 → term) 1.00
+[2.405741s] (usart3 → term) 0.00
+[2.406314s] (usart3 → term) 5.00
+[2.406888s] (usart3 → term) 986.00
+[2.407653s] (usart3 → term) 9.53
+[2.408227s] (usart3 → term) 5.00
+[2.408801s] (usart3 → term) 11.50
+[bus] CAN RX id=0x180 data=0500
+[bus] CAN RX id=0x181 data=da03
+[2.499991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[2.500090s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[2.505159s] (usart3 → term) 1.00
+[2.505742s] (usart3 → term) 0.00
+[2.506316s] (usart3 → term) 5.00
+[2.506890s] (usart3 → term) 986.00
+[2.507655s] (usart3 → term) 9.53
+[2.508229s] (usart3 → term) 5.00
+[2.508803s] (usart3 → term) 11.50
+[bus] CAN RX id=0x180 data=0500
+[bus] CAN RX id=0x181 data=da03
+[2.599991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[2.600100s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[2.605169s] (usart3 → term) 1.00
+[2.605743s] (usart3 → term) 0.00
+[2.606317s] (usart3 → term) 5.00
+[2.606891s] (usart3 → term) 986.00
+[2.607656s] (usart3 → term) 9.53
+[2.608230s] (usart3 → term) 5.00
+[2.608803s] (usart3 → term) 11.50
+[bus] CAN RX id=0x180 data=0500
+[bus] CAN RX id=0x181 data=da03
+[2.699991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[2.700093s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[2.705162s] (usart3 → term) 1.00
+[2.705735s] (usart3 → term) 0.00
+[2.706309s] (usart3 → term) 5.00
+[2.706883s] (usart3 → term) 986.00
+[2.707648s] (usart3 → term) 9.53
+[2.708222s] (usart3 → term) 5.00
+[2.708796s] (usart3 → term) 11.50
+[bus] CAN RX id=0x180 data=0500
+[bus] CAN RX id=0x181 data=da03
+[2.799991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[2.800094s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[2.805163s] (usart3 → term) 1.00
+[2.805737s] (usart3 → term) 0.00
+[2.806311s] (usart3 → term) 5.00
+[2.806884s] (usart3 → term) 986.00
+[2.807649s] (usart3 → term) 9.53
+[2.808223s] (usart3 → term) 5.00
+[2.808797s] (usart3 → term) 11.50
+[bus] CAN RX id=0x180 data=0500
+[bus] CAN RX id=0x181 data=da03
+[2.899991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[2.900095s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[2.905164s] (usart3 → term) 1.00
+[2.905738s] (usart3 → term) 0.00
+[2.906312s] (usart3 → term) 5.00
+[2.906886s] (usart3 → term) 986.00
+[2.907651s] (usart3 → term) 9.53
+[2.908225s] (usart3 → term) 5.00
+[2.908798s] (usart3 → term) 11.50
+[bus] CAN RX id=0x180 data=0500
+[bus] CAN RX id=0x181 data=da03
+[2.999991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[3.000096s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[3.005165s] (usart3 → term) 1.00
+[3.005739s] (usart3 → term) 0.00
+[3.006313s] (usart3 → term) 5.00
+[3.006887s] (usart3 → term) 986.00
+[3.007652s] (usart3 → term) 9.53
+[3.008226s] (usart3 → term) 5.00
+[3.008800s] (usart3 → term) 11.50
+[bus] CAN RX id=0x180 data=0500
+[bus] CAN RX id=0x181 data=da03
+[3.099991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[3.100089s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[3.105158s] (usart3 → term) 1.00
+[3.105741s] (usart3 → term) 0.00
+[3.106314s] (usart3 → term) 5.00
+[3.106888s] (usart3 → term) 986.00
+[3.107653s] (usart3 → term) 9.53
+[3.108227s] (usart3 → term) 5.00
+[3.108801s] (usart3 → term) 11.50
+[bus] CAN RX id=0x180 data=0500
+[bus] CAN RX id=0x181 data=da03
+[3.199991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[3.200090s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[3.205159s] (usart3 → term) 1.00
+[3.205742s] (usart3 → term) 0.00
+[3.206316s] (usart3 → term) 5.00
+[3.206889s] (usart3 → term) 986.00
+[3.207655s] (usart3 → term) 9.53
+[3.208228s] (usart3 → term) 5.00
+[3.208802s] (usart3 → term) 11.59
+[bus] CAN RX id=0x180 data=0500
+[bus] CAN RX id=0x181 data=da03
+[3.299991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[3.300091s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[3.305160s] (usart3 → term) 1.00
+[3.305752s] (usart3 → term) 0.00
+[3.306325s] (usart3 → term) 5.00
+[3.306899s] (usart3 → term) 986.00
+[3.307664s] (usart3 → term) 9.53
+[3.308238s] (usart3 → term) 5.00
+[3.308812s] (usart3 → term) 11.59
+[bus] CAN RX id=0x180 data=0500
+[bus] CAN RX id=0x181 data=da03
+[3.399991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[3.400092s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[3.405161s] (usart3 → term) 1.00
+[3.405735s] (usart3 → term) 0.00
+[3.406309s] (usart3 → term) 5.00
+[3.406883s] (usart3 → term) 986.00
+[3.407648s] (usart3 → term) 9.53
+[3.408222s] (usart3 → term) 5.00
+[3.408796s] (usart3 → term) 11.50
+[bus] CAN RX id=0x180 data=0500
+[bus] CAN RX id=0x181 data=da03
+[3.499991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[3.500094s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[3.505163s] (usart3 → term) 1.00
+[3.505736s] (usart3 → term) 0.00
+[3.506310s] (usart3 → term) 5.00
+[3.506884s] (usart3 → term) 986.00
+[3.507649s] (usart3 → term) 9.53
+[3.508223s] (usart3 → term) 5.00
+[3.508797s] (usart3 → term) 11.50
+[bus] CAN RX id=0x180 data=0500
+[bus] CAN RX id=0x181 data=da03
+[3.599991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[3.600095s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[3.605164s] (usart3 → term) 1.00
+[3.605738s] (usart3 → term) 0.00
+[3.606311s] (usart3 → term) 5.00
+[3.606885s] (usart3 → term) 986.00
+[3.607650s] (usart3 → term) 9.53
+[3.608224s] (usart3 → term) 5.00
+[3.608798s] (usart3 → term) 11.50
+[bus] CAN RX id=0x180 data=0500
+[bus] CAN RX id=0x181 data=da03
+[3.699991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[3.700105s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[3.705174s] (usart3 → term) 1.00
+[3.705747s] (usart3 → term) 0.00
+[3.706321s] (usart3 → term) 5.00
+[3.706895s] (usart3 → term) 986.00
+[3.707660s] (usart3 → term) 9.53
+[3.708234s] (usart3 → term) 5.00
+[3.708808s] (usart3 → term) 11.50
+[bus] CAN RX id=0x180 data=0500
+[bus] CAN RX id=0x181 data=da03
+[3.799991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[3.800088s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[3.805157s] (usart3 → term) 1.00
+[3.805740s] (usart3 → term) 0.00
+[3.806314s] (usart3 → term) 5.00
+[3.806888s] (usart3 → term) 986.00
+[3.807653s] (usart3 → term) 9.53
+[3.808227s] (usart3 → term) 5.00
+[3.808801s] (usart3 → term) 11.50
+[bus] CAN RX id=0x180 data=0500
+[bus] CAN RX id=0x181 data=da03
+[3.899991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[3.900090s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[3.905159s] (usart3 → term) 1.00
+[3.905741s] (usart3 → term) 0.00
+[3.906315s] (usart3 → term) 5.00
+[3.906889s] (usart3 → term) 986.00
+[3.907654s] (usart3 → term) 9.53
+[3.908228s] (usart3 → term) 5.00
+[3.908802s] (usart3 → term) 11.50
+[bus] CAN RX id=0x180 data=0500
+[bus] CAN RX id=0x181 data=da03
+[3.999991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[4.000091s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[4.005160s] (usart3 → term) 1.00
+[4.005743s] (usart3 → term) 0.00
+[4.006316s] (usart3 → term) 5.00
+[4.006890s] (usart3 → term) 986.00
+[4.007655s] (usart3 → term) 9.53
+[4.008229s] (usart3 → term) 5.00
+[4.008803s] (usart3 → term) 11.50
+[bus] CAN RX id=0x180 data=0500
+[bus] CAN RX id=0x181 data=da03
+[4.099991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[4.100092s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[4.105161s] (usart3 → term) 1.00
+[4.105735s] (usart3 → term) 0.00
+[4.106309s] (usart3 → term) 5.00
+[4.106883s] (usart3 → term) 986.00
+[4.107648s] (usart3 → term) 9.53
+[4.108221s] (usart3 → term) 5.00
+[4.108795s] (usart3 → term) 11.50
+[bus] CAN RX id=0x180 data=0500
+[bus] CAN RX id=0x181 data=da03
+[4.199991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[4.200093s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[4.205162s] (usart3 → term) 1.00
+[4.205736s] (usart3 → term) 0.00
+[4.206310s] (usart3 → term) 5.00
+[4.206884s] (usart3 → term) 986.00
+[4.207649s] (usart3 → term) 9.53
+[4.208223s] (usart3 → term) 5.00
+[4.208797s] (usart3 → term) 11.50
+[bus] CAN RX id=0x180 data=0500
+[bus] CAN RX id=0x181 data=da03
+[4.299991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[4.300094s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[4.305163s] (usart3 → term) 1.00
+[4.305746s] (usart3 → term) 0.00
+[4.306320s] (usart3 → term) 5.00
+[4.306894s] (usart3 → term) 986.00
+[4.307659s] (usart3 → term) 9.53
+[4.308233s] (usart3 → term) 5.00
+[4.308807s] (usart3 → term) 11.59
+[bus] CAN RX id=0x180 data=0500
+[bus] CAN RX id=0x181 data=da03
+[4.399991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[4.400096s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[4.405165s] (usart3 → term) 1.00
+[4.405738s] (usart3 → term) 0.00
+[4.406312s] (usart3 → term) 5.00
+[4.406886s] (usart3 → term) 986.00
+[4.407651s] (usart3 → term) 9.53
+[4.408225s] (usart3 → term) 5.00
+[4.408799s] (usart3 → term) 11.50
+[bus] CAN RX id=0x180 data=0500
+[bus] CAN RX id=0x181 data=da03
+[4.499991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[4.500088s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[4.505157s] (usart3 → term) 1.00
+[4.505740s] (usart3 → term) 0.00
+[4.506314s] (usart3 → term) 5.00
+[4.506888s] (usart3 → term) 986.00
+[4.507653s] (usart3 → term) 9.53
+[4.508227s] (usart3 → term) 5.00
+[4.508800s] (usart3 → term) 11.50
+[bus] CAN RX id=0x180 data=0500
+[bus] CAN RX id=0x181 data=da03
+[4.599991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[4.600089s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[4.605158s] (usart3 → term) 1.00
+[4.605741s] (usart3 → term) 0.00
+[4.606315s] (usart3 → term) 5.00
+[4.606889s] (usart3 → term) 986.00
+[4.607654s] (usart3 → term) 9.53
+[4.608228s] (usart3 → term) 5.00
+[4.608802s] (usart3 → term) 11.50
+[bus] CAN RX id=0x180 data=0500
+[bus] CAN RX id=0x181 data=da03
+[4.699991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[4.700099s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[4.705168s] (usart3 → term) 1.00
+[4.705742s] (usart3 → term) 0.00
+[4.706316s] (usart3 → term) 5.00
+[4.706890s] (usart3 → term) 986.00
+[4.707655s] (usart3 → term) 9.53
+[4.708229s] (usart3 → term) 5.00
+[4.708803s] (usart3 → term) 11.50
+[bus] CAN RX id=0x180 data=0500
+[bus] CAN RX id=0x181 data=da03
+[4.799991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[4.800092s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[4.805161s] (usart3 → term) 1.00
+[4.805735s] (usart3 → term) 0.00
+[4.806309s] (usart3 → term) 5.00
+[4.806882s] (usart3 → term) 986.00
+[4.807648s] (usart3 → term) 9.53
+[4.808221s] (usart3 → term) 5.00
+[4.808795s] (usart3 → term) 11.50
+[bus] CAN RX id=0x180 data=0500
+[bus] CAN RX id=0x181 data=da03
+[4.899991s] (usart3 ← term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[4.900093s] (usart3 → term) get opmode,status,fstat,amp,ampnom,fslipspnt,cpuload
+[4.905162s] (usart3 → term) 1.00
+[4.905736s] (usart3 → term) 0.00
+[4.906310s] (usart3 → term) 5.00
+[4.906883s] (usart3 → term) 986.00
+[4.907649s] (usart3 → term) 9.53
+[4.908222s] (usart3 → term) 5.00
+[4.908796s] (usart3 → term) 11.50
+[bus] CAN RX id=0x180 data=0500
+[bus] CAN RX id=0x181 data=da03
+loop skip [inv] core 0: taken 283533 refused-after-dry-run 63679 instructions skipped 21921791 (depth memo hits 78548)
+jit [inv] core 0: 2065 blocks, 328326404 of 338005529 instructions in blocks (97.1%), 3.3 per block run, 33.4 per chain, 89.7% of block runs linked; terminators [("side-exit at a non-plain access (runs)", 63212), ("branch Bl", 783), ("branch Bcond", 562), ("branch Bx", 179), ("branch B", 120), ("branch Pop", 104), ("branch Cbz", 82), ("branch BCondW", 37), ("cache-miss", 31), ("branch Ldm", 26)]
+warning: inv: rcc: firmware enabled HSE but the board declares no rcc hseFrequency; assuming a 8 MHz crystal (the chip default). Every clock derived from HSE (PLLs, UART/CAN/SPI rates, SysTick, timers) follows that value, so a board with another crystal runs them all wrong. Set the board's: a --board file with `rcc:` then `    hseFrequency: 25000000` (Hz), or declare it on the part
+timing (inv): 72000000 instructions/s (clock-tree x 1.0 (unmeasured)), 13.88888888888889 ns/insn, flat ns per instruction, wait states not modelled, irq jitter 0 ns seed 1, 12 declared assumptions
+Recorded: run 1 into /var/folders/y2/_t0jvjs571xcc12kqtv565sm0000gn/T/tmp.SQ6QcDM6nT (seq 0..=706394): fault 0, frame 7181, gpio 632853, isr 65935, isr_usage 1, log 1, uart 423
+Scenario: scenario.yaml
+  inv
+Elapsed: 7.876s

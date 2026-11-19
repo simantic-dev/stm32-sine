@@ -1,0 +1,7 @@
+PWM start 1.3058 s; period 113.78 us = 8.79 kHz; cycles U/V/W 32468/32468/32468
+dead time PA8 fall -> PB13 rise: 875 ns
+duty U: min 47.91 %  max 50.53 %  mean 49.20 %
+duty V: min 47.91 %  max 50.53 %  mean 49.22 %
+duty W: min 47.91 %  max 50.53 %  mean 49.24 %
+terminal: 45 polls; fstat last 5.0 Hz, amp last 986.0, cpuload last 11.5 %
+CAN: 46 frames 0x180 (fstat), 45 frames 0x181 (amp); last fstat 5 Hz, last amp 986

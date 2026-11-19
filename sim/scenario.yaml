@@ -1,0 +1,12 @@
+machines:
+  inv:
+    mcu: STM32F103RC
+    elf: stm32_sine.elf
+    parts:
+      - { name: term, type: uart-device, script: term_peer.py }
+      - { name: bus,  type: can-node, script: can_peer.py }
+      - { name: io,   type: gpio-device, outputs: [PC7, PA4, PB6], script: io_peer.py }
+media:
+  - { type: can, connect: [inv.can1, inv.bus] }
+  - { type: uart, connect: [inv.usart3, inv.term] }
+timeout: 5
